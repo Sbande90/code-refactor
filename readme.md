@@ -17,4 +17,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title 
 
 ## live URL 
- https://sbande90.github.io/code-refactor/.
+ [see me](https://sbande90.github.io/code-refactor/.)
+
+
+ ![click me](./image.png)
